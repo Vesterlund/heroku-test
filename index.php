@@ -1,1 +1,4 @@
-hello world!
+hello world!<\br>
+<?php 
+echo(pi());
+?>
