@@ -1,4 +1,8 @@
-hello world!<\br>
+<head>
+</head>
+<body>
+hello world! </br>
 <?php 
-echo(pi());
+echo pi();
 ?>
+</body>
